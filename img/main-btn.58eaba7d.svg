@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="302" height="68" fill="none" xmlns:v="https://vecta.io/nano">
+    <path d="M1 1.457h280l20 19.908v45.086H21L1 46.431V1.457z" fill="url(#A)" stroke="#ebd44b" stroke-width="2" />
+    <defs>
+        <linearGradient id="A" x1="1" y1="1.457" x2="1" y2="66.451" gradientUnits="userSpaceOnUse">
+            <stop offset=".56" stop-color="#F1C950" />
+            <stop offset="1" stop-color="#E9A157" />
+        </linearGradient>
+    </defs>
+</svg>
